@@ -150,6 +150,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
+    padding-right: 13rem;
 }
 
 .titulo-produto {
